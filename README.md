@@ -1,11 +1,6 @@
 <h1 align=center>React Concepts</h1>
 
-An application for managing to-do activities. Developed to train a bit more about state handling in React.
-
-## :clipboard: Features
-- Add a new task;
-- Remove a task;
-- Mark and unmark a task as done.
+A little activity app to do, to train a little more about state manipulation in React. Developed as a solution to the Challenge: Conceitos do React offered by Rocketseat's Ignite Course.
 
 ## :rocket: Try it yourself
 #### 1) Installing dependencies
