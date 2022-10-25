@@ -1,6 +1,6 @@
 <h1 align=center>React Concepts</h1>
 
-A little activity app to do, to train a little more about state manipulation in React. Developed as a solution to the Challenge: Conceitos do React offered by Rocketseat's Ignite Course.
+A little activity app to do, to train a little more about state manipulation in React. Developed as a solution to the challenge: "Conceitos do React" offered by Rocketseat's Ignite Course.
 
 ## :rocket: Try it yourself
 #### 1) Installing dependencies
